@@ -2,12 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-// Name: Itsuki Akiniwa
-// Date: 1.26. 2025
-// Course: 2107
-// Assignment number: Lab02
-// Project 1 Paycheck
-
 int main(int argc, const char * argv[]) {
     double nEmNum;
     float nHourSalary;
